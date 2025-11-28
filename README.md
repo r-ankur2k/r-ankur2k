@@ -55,9 +55,20 @@ CONST ANKUR = {
   suite: ["Tosca Test Suite"],
   interests: ["Framework Design", "Automation Productivity"],
 }
-<p align="center"> <!-- Connecting Message --> <samp> 「 Always excited to collaborate and build reliable automation solutions! 」 <br>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-ankur.dev-blue?logo=firefox" alt="Portfolio"></a> <br> </samp> </p>
-<p align="center"> <!-- Socials -->
-<a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a> </p>
+<p align="center">
+  <!-- Socials -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <br>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <br>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
+
