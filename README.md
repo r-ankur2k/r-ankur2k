@@ -1,72 +1,24 @@
-<!-- Title -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://your-portfolio-link.com/">Ankur Raj</a></b>
-        </samp>
-</h3>
-<br>
-
-<p align="center">
-        <!-- Intro -->
-        <samp>
-                「 I'm a Software Test Engineer with a strong focus on <b>UI + API Automation</b> 」 <br>
-                「 Passionate about building scalable automation frameworks and improving test reliability 」 <br>
-        </samp>
-</p>
-
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <br>
-
-        <!-- Activity Widget -->
-        <img alt="Ankur's GitHub Stats"
-             src="https://github-readme-stats.vercel.app/api?username=dummy&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-        <br>
-
-        <!-- Badges Section -->
-        <h3>🎖️ Badges:</h3>
-
-        <p align="center">
-            <a href="#">
-                <img src="https://raw.githubusercontent.com/AryanSharma9917/Aryansharma9917/main/github-foundations.png" alt="Dummy Badge" width="150">
-            </a>
-
-            &nbsp;&nbsp;&nbsp;&nbsp;
-
-            <a href="#">
-                <img width="150" src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.svg" alt="Contributor">
-            </a>
-        </p>
-    </p>
-</details>
-
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="25" /> A little more about me...
-
-```yaml
-CONST ANKUR = {
-  role: "Software Test Engineer",
-  automation: ["Playwright", "API Testing", "UI Automation"],
-  frameworks: ["POM Design", "Reusable Utilities", "Scalable Architecture"],
-  tools: ["TypeScript", "Java", "SQL", "Postman"],
-  devops: ["CI/CD", "GitHub Actions"],
-  suite: ["Tosca Test Suite"],
-  interests: ["Framework Design", "Automation Productivity"],
-}
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-</p>
+# 💫 About Me:
+🔭 I’m currently working on : Playwright UI Automation & API Test Suites  <br>🤝 I’m looking to collaborate on : Automation Frameworks & CI/CD Pipelines  <br>🙏 I’m looking for help with : Advanced Test Architecture & Scalable Utilities  <br>🌱 I’m currently learning : CI/CD, Test Framework Design & Typescript Best Practices  <br>💬 Ask me about : Playwright, API Testing, POM, Tosca & Automation Strategy  <br>⚡ Fun fact : I break things professionally so others don’t have to 
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/SJ7QRjc9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankur29feb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankur28feb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r.ankur2k@gmail.com) 
+
+# 💻 Tech Stack:
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=r-ankur2k&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=r-ankur2k&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=r-ankur2k&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=r-ankur2k&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=r-ankur2k&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
